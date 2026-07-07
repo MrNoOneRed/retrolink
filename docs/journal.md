@@ -31,4 +31,4 @@ Brak.
 - Projekt prowadzony jako Open Source.
 
 ## Następny etap
-RL-002 – Architektura NES.
+RL-002 – Nauka lutowania

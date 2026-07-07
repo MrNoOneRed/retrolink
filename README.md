@@ -50,6 +50,12 @@ Every important engineering decision should be documented.
 
 Knowledge is as important as code.
 
+The project values **continuous progress** over speed.
+
+Completing one small task every evening is preferred over attempting large, unfinished features.
+
+A milestone is achieved through many small, successful sessions.
+
 ---
 
 # Repository structure
@@ -135,6 +141,24 @@ No undocumented engineering decisions.
 
 ---
 
+## ⏱ Development Sessions
+
+This project is developed in small, focused sessions.
+
+### Session Rules
+
+- A single task (RL-xxx) should take **no more than 2–3 hours** to complete.
+- If a task cannot be completed within 3 hours, it should be split into smaller tasks.
+- Every session should end with either:
+  - a working result,
+  - a documented decision,
+  - or a clear understanding of the explored topic.
+- Avoid leaving partially completed tasks whenever possible.
+
+The goal is to keep the project enjoyable and sustainable while balancing work, family life, and learning.
+
+---
+
 # Git
 
 One task = one branch
@@ -172,6 +196,18 @@ N/A
 
 Current blockers:
 N/A
+
+---
+
+## 🤖 AI Task Planning
+
+When creating new tasks, the AI assistant must:
+
+- Estimate the task duration.
+- Keep every task within a **2–3 hour session**.
+- Split large problems into multiple RL tasks.
+- Never create oversized milestones that cannot realistically be completed in a single evening.
+- Prefer incremental progress over large implementation jumps.
 
 ---
 
